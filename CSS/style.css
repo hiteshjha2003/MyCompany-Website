@@ -1,0 +1,117 @@
+#topheader{
+     background-color: antiquewhite;
+     border-bottom: 1px solid silver;
+     padding:5px;
+}
+#topheader a{
+
+     color:black;
+     font-weight: 600;
+     font-size :  0.89rem;
+
+
+}
+.container-fluid{
+     padding-left: 0;
+     padding-right: 0;
+
+}
+nav ul li a{
+
+     font-size: 1.1em;
+     font-weight: 600;
+
+}
+/* START FOOTER*/
+.full-footer{
+     background-color: #34495e;
+    /* position: absolute;
+     bottom: 0;
+     width: 100%;*/
+
+  
+}
+.top-footer p{
+     color: white;
+
+}
+.top-footer h3{
+     color: white;
+
+}
+.bottom-footer{
+     background-color:  black;
+
+}
+.bottom-footer p{
+     color: white;
+     
+
+}
+/*END FOOTER*/
+
+/* START OF HOME PAGE first hero Section*/
+.top-hero-section{
+     background-color: #1B9CFC;
+     color:white;
+
+}
+.top-hero-section a{
+
+     color:white;
+     font-weight: 600;
+
+}
+.qualities-img{
+     width:200px;
+
+}
+/* END OF HOME PAGE first hero Section*/
+
+/*START : Home  Page  3rd requirements sections*/
+.requirements-section{
+
+     background-color:aquamarine;
+     color: blueviolet;
+}
+/*END : Home  Page  3rd requirements sections*/
+
+/*START : Home  Page  4th requirements sections*/
+.home-newsletter{
+
+     background-color:rgb(129, 8, 243);
+     color: blueviolet;
+}
+.home-newsletter h3{
+     color: white;
+}
+.home-newsletter .form-control{
+
+     height: 50px;
+     border-color: transparent;
+     border-radius: 20px 0 0 20px;
+}
+.home-newsletter .btn{
+     min-height: 50px;
+     border-radius:0 20px 20px 0;
+     background: #243c4f;
+     color:#fff;
+     
+}
+/*END : Home  Page  4th requirements sections*/
+/*START of the About Us Section */
+
+.breadcrumbs-section{
+
+     background-color: #e9ecef;
+     
+}
+
+/*End of the About Us Section*/
+
+.Address p{
+
+     font-weight: 600;
+
+}
+
